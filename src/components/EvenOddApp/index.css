@@ -1,0 +1,37 @@
+/* Write your CSS here */
+* {
+  font-family: 'Roboto';
+}
+
+.bg-container {
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.even-odd-container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  padding: 30px;
+  padding-bottom: 50px;
+  border-radius: 8px;
+}
+
+.para {
+  font-size: 18px;
+  color: #334155;
+  margin-top: 30px;
+}
+
+.button {
+  padding: 8px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border: none;
+  border-radius: 6px;
+}
+
+.para1 {
+  font-size: 12px;
+}
